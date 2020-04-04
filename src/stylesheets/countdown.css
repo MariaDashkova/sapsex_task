@@ -1,0 +1,13 @@
+#clockdiv{
+
+    display: flex;
+
+}
+.intoClock{
+    display: flex;
+    margin-right: 10px;
+}
+.intoClock > span{
+    margin-right: 5px;
+}
+
